@@ -10,8 +10,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.facebook.com/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="SadmanAnik" height="30" width="40" /></a>
-<a href="https://instagram.com/sadman.anik12" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="SadmanAnik12" height="30" width="40" /></a>
+<a href="https://www.facebook.com/profile.php?id=61561264605347" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="SujonBevies" height="30" width="40" /></a>
+<a href="https://instagram.com/sujonbevies" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="SujonBevjes" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -19,17 +19,17 @@
 
 ## 📊 Github Stats
 
-<img align="right" src="https://img.shields.io/github/stars/sadman-11?label=Stars&style=social" alt="GitHub Badge"> <a href="https://github.com/sadman-11?tab=followers"><img align="right" src="https://img.shields.io/github/followers/sadman-11?label=Followers&style=social" alt="GitHub Badge"></a> <a href="https://github.com/sadman-11">  <img align="right" src="https://visitor-badge.laobi.icu/badge?style=flat-square&page_id=sadman-11"></a>
+<img align="right" src="https://img.shields.io/github/stars/SUJON-BEVIES?label=Stars&style=social" alt="GitHub Badge"> <a href="https://github.com/SUJON-BEVIES?tab=followers"><img align="right" src="https://img.shields.io/github/followers/SUJON-BEVIES?label=Followers&style=social" alt="GitHub Badge"></a> <a href="https://github.com/SUJON-BEVIES">  <img align="right" src="https://visitor-badge.laobi.icu/badge?style=flat-square&page_id=SUJON-BEVIES"></a>
 
 <br><br>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sadman-11&langs_count=8&theme=react&bg_color=151515" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SUJON-BEVIES&langs_count=8&theme=react&bg_color=151515" />
 </p>
 <p align="center">
-<a href="https://github.com/sadman-11"><img alt="Sadman Anik's Github Stats"
-    src="https://github-readme-stats.vercel.app/api?username=sadman-11&show_icons=true&count_private=true&theme=react&bg_color=151515" /></a>
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sadman-11&theme=black-ice"
-    alt="SadmanAnik"/></p>
+<a href="https://github.com/SUJON-BEVIES"><img alt="SUJON BEVIES's Github Stats"
+    src="https://github-readme-stats.vercel.app/api?username=SUJON-BEVIES&show_icons=true&count_private=true&theme=react&bg_color=151515" /></a>
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=SUJON-BEVIES&theme=black-ice"
+    alt="SujonBevies"/></p>
 
 <br/>
